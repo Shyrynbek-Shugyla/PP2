@@ -1,0 +1,1 @@
+r"D:\PP2\labs\lab5\8-9-10.txt", encoding="utf-8"
